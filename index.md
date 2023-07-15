@@ -27,7 +27,7 @@ https://gitlab.com/ihc4bc-dataset/labels/-/tree/main/
 
 # About
 
-The figure below illustrates how the patch-pairs in the dataset are obtained.
+The below figure illustrates how the patch-pairs in the dataset are obtained.
 
 ![overview of streamcollector functionality](stages_screenshot.png)
 
@@ -40,10 +40,23 @@ result of this step is a set of patch-pairs each of which are 3000 by 3000 (the
 pairs in the right side of the figure).
 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Roughtly ~150K patch-pairs were extracted from ~240 WIS pairs. Consequently, DAB analysis was done on the H-DAB images (except for Her2/nue).
+These ~150K pair were exhaustively inspected and around 60K pairs were discarded due to unreliablity of DAB analysis results.
+Finally ~90K patch-pairs made it to the IHC4BC dataset.
+For more details please refer to our paper.
 
-```
-The final element.
-```
+# Citation 
+If you use this dataset in your research, please cite the following paper:
+
+TODOTODO
+
+# Issues
+Please report issues to the following address, and help us improve the dataset
+
+ah8 [at] ualberta [dot] ca
+
+# Acknowledgements
+
+TODO: compute-canada
+TODO: other 
+ 
