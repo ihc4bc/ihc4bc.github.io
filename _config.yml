@@ -1,5 +1,5 @@
-title: IHC4BC (ImmunoHistoChemistry for Breast Cancer)
-description: IHC4BC is a dataset for predicting Er, Pr, Her2/nue, and Ki67 statutes from H&E-stained breast-cancer images.
+title: IHC4BC Dataset
+description: IHC4BC (ImmunoHistoChemistry for Breast Cancer) is a dataset for predicting Er, Pr, Her2/nue, and Ki67 statutes from H&E-stained breast-cancer images.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
