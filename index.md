@@ -27,15 +27,9 @@ https://gitlab.com/ihc4bc-dataset/labels/-/tree/main/
 
 # About
 
-dddd
-d
-d
-ddd
+The below figure dddd
 
-dddd
-
-dddd
-
+![overview of streamcollector functionality](stages_screenshot.png)
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
