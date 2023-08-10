@@ -46,9 +46,9 @@ Finally ~90K patch-pairs made it to the IHC4BC dataset.
 For more details please refer to our paper.
 
 # Citation 
-If you use this dataset in your research, please cite the following paper:
+If you use this dataset please cite the following paper:
 
-TODOTODO
+Amir Akbarnejad, Nilanjan Ray, Penny J. Barnes, Gilbert Bigras. Predicting Ki67, ER, PR, and HER2 Statuses from H&E-stained Breast Cancer Images. arXiv:2308.01982. 
 
 # Issues
 Please report issues to the following address, and help us improve the dataset
@@ -57,6 +57,5 @@ ah8 [at] ualberta [dot] ca
 
 # Acknowledgements
 
-TODO: compute-canada
-TODO: other 
+This work was supported by Mitacs accelerate. The experiments of this study were enabled in part by the Digital Research Alliance of Canada. We would like to thank DynaLIFE Medical Laboratory (Edmonton, Canada) for their support in the slide scanning process. 
  
