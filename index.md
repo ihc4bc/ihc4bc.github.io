@@ -24,6 +24,8 @@ The labels are maintained in the following repository, and are a couple of gigab
 
 https://gitlab.com/ihc4bc-dataset/labels/-/tree/main/  
 
+**We may correct or add labels to the above repository, so please pull frequently to have access to the latest version of labels.**
+
 
 # About
 
