@@ -47,6 +47,15 @@ These ~150K pair were exhaustively inspected and around 60K pairs were discarded
 Finally ~90K patch-pairs made it to the IHC4BC dataset.
 For more details please refer to our paper.
 
+# Format
+The labels in the csv files are in the following format. The first column is the name of the image. 
+The second column is the manual annotation (during the visual inspection); "a" means that the result of DAB-analysis looked reliable to the user.
+"0" means the user has manually set the label to 0.
+Image names are in the following format: "xxx_caseid_regionindex_rowindex_colindex.png". "caseid" is the unique number assigned to each patient.
+"regionindex" is the index of the region from which the patch is extracted. 
+"rowindex" and "colindex" are the row and column indices of the patch within that WSI region.
+For example, the image '0_1010_11_1_2.png' corresponds to a patient with unique ID 1010, from region 11 of the WSI, and row 1 and column 2 of that WSI-region.      
+
 # Citation 
 If you use this dataset please cite the following paper:
 
