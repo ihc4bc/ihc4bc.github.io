@@ -51,6 +51,8 @@ For more details please refer to our paper.
 The labels in the csv files are in the following format. The first column is the name of the image. 
 The second column is the manual annotation (during the visual inspection); "a" means that the result of DAB-analysis looked reliable to the user.
 "0" means the user has manually set the label to 0.
+The third column is the number of nuclei in the H&E patch, which - as explained in the paper - can be used as the denominator when computing H-score or percentage.
+The rest of numbers in each row are the average DAB channel within each and every nucleus in the H-DAB modality.  
 Image names are in the following format: "xxx_caseid_regionindex_rowindex_colindex.png". "caseid" is the unique number assigned to each patient.
 "regionindex" is the index of the region from which the patch is extracted. 
 "rowindex" and "colindex" are the row and column indices of the patch within that WSI region.
