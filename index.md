@@ -20,7 +20,7 @@ These limits are reset monthly for each user.
 So if you failed to download the images due to the uploader's download quota being exceeded, you can create a pcloud free account with a basic download quota.
 If that basic quota didn't suffice, you can buy a paid pcloud account.
 
-Alternatively, you can download the compressed version of the images from Kaggle, which are rougly 50 Gb.
+Alternatively, you can download the compressed version of the images from Kaggle, which are rougly 50Gb in total.
 
 https://www.kaggle.com/datasets/akbarnejad1991/ihc4bc-compressed
 
@@ -61,6 +61,12 @@ Image names are in the following format: "xxx_caseid_regionindex_rowindex_colind
 "regionindex" is the index of the region from which the patch is extracted. 
 "rowindex" and "colindex" are the row and column indices of the patch within that WSI region.
 For example, the image '0_1010_11_1_2.png' corresponds to a patient with unique ID 1010, from region 11 of the WSI, and row 1 and column 2 of that WSI-region.      
+
+In the paper experiments the nuclei are stratified to 0, 1+, 2+ and 3+ by putting the following thresholds on the average DAB channel of each nucleus:
+- Ki67: 0.12, 0.35, 0.55
+- ER: 0.06,0.26,0.46
+- PR: 0.06,0.26,0.46
+These thresholds seeme to work reasonably well on dataset images according to an expert pathologist.
 
 # Citation 
 If you use this dataset please cite the following paper:
