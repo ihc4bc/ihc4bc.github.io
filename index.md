@@ -20,6 +20,10 @@ These limits are reset monthly for each user.
 So if you failed to download the images due to the uploader's download quota being exceeded, you can create a pcloud free account with a basic download quota.
 If that basic quota didn't suffice, you can buy a paid pcloud account.
 
+Alternatively, you can download the compressed version of the images from Kaggle, which are rougly 50 Gb.
+
+https://www.kaggle.com/datasets/akbarnejad1991/ihc4bc-compressed
+
 The labels are maintained in the following repository, and are a couple of gigabytes in total.
 
 https://gitlab.com/ihc4bc-dataset/labels/-/tree/main/  
