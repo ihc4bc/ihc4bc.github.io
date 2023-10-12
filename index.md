@@ -18,7 +18,8 @@ https://filedn.com/laHPyhQ5wAHBUyNr64yhV0Q/IHC4BC_Dataset/
 Pcloud has a limited download quota to be deducted from either the uploader's or the downloader's limit.
 These limits are reset monthly for each user.
 So if you failed to download the images due to the uploader's download quota being exceeded, you can create a pcloud free account with a basic download quota.
-If that basic quota didn't suffice, you can buy a paid pcloud account.
+If that basic quota didn't suffice, you can buy a paid pcloud account. 
+**We cannot confirm that doing so certainly works. Please double-check before paying to pcloud.**
 
 Alternatively, you can download the compressed version of the images from Kaggle, which are rougly 50Gb in total.
 
