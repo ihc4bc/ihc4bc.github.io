@@ -9,7 +9,7 @@ layout: default
 
 Please read this section before attempting to download the dataset.
 
-Data is licensed under CC BY-NC-SA 4.0 
+Data is licensed under CC BY-NC-SA 4.0. 
 
 The dataset contains near 2 TB of images which are uploaded to [pcloud](https://www.pcloud.com/), in the following address:
 
